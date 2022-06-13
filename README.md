@@ -27,9 +27,9 @@ Acidovorax_monticola                      | 143929                   | 1452892
 
 ## Гистограммы значений Z-score
 
-<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/Acidovorax_antarcticus_z_hunt.png width=300/>  
-<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/Acidovorax_avenae_z_hunt.png width=300/>  
-<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/Acidovorax_carolinensis_z_hunt.png width=300/>  
-<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/Acidovorax_citrulli_z_hunt.png width=300/>  
-<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/Acidovorax_monticola_z_hunt.png width=300/>  
+<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/Acidovorax_antarcticus_z_hunt.png width=700/>  
+<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/Acidovorax_avenae_z_hunt.png width=700/>  
+<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/Acidovorax_carolinensis_z_hunt.png width=700/>  
+<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/Acidovorax_citrulli_z_hunt.png width=700/>  
+<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/Acidovorax_monticola_z_hunt.png width=700/>  
 
