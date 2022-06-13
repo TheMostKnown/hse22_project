@@ -13,3 +13,14 @@ Acidovorax_avenae_subsp_avenae_ATCC_19860 | 4871                            | 54
 Acidovorax_carolinensis                   | 3823                            | 4058023     | 3592613                    | 88.5 %   
 Acidovorax_citrulli                       | 4459                            | 4899546     | 4389506                    | 89.6 %
 Acidovorax_monticola                      | 4523                            | 4679990     | 4259283                    | 91.0 %
+
+
+## Таблица по участкам Z-DNA
+
+Название                                  | Количество учстков Z-DNA | Общая длина участков Z-DNA | 
+----------------------------------------- | ------------------------ | -------------------------- | ------------------------------------------------------
+Acidovorax_antarcticus                    | 122144                   | 1212192
+Acidovorax_avenae_subsp_avenae_ATCC_19860 | 135817                   | 1368660
+Acidovorax_carolinensis                   | 72108                    | 721420
+Acidovorax_citrulli                       | 126171                   | 1270150
+Acidovorax_monticola                      | 143929                   | 1452892
