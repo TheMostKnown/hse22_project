@@ -47,5 +47,18 @@ Acidovorax_monticola                      | 143929                   | 1452892
 <img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/distrib_table.PNG width=700/>  
 <img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/distrib_plot.PNG width=700/>  
 
+## Кластеризация
+
+<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/Species_in_clusters.PNG width=700/>  
+<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/Genes_in_clusters.PNG  width=700/>  
+<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/0_Cluster.PNG width=700/>  
+<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/1_Cluster.PNG width=700/>  
+<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/2_Cluster.PNG width=700/>  
+<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/3_Cluster.PNG width=700/>  
+<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/4_Cluster.PNG width=700/>  
+
+## Выравнивание  
+
+Файлы с выравниванием могут быть найдены в папке *data*
 
 
