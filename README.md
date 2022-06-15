@@ -33,3 +33,19 @@ Acidovorax_monticola                      | 143929                   | 1452892
 <img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/Acidovorax_citrulli_z_hunt.png width=700/>  
 <img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/Acidovorax_monticola_z_hunt.png width=700/>  
 
+## Ассоциация Z-DNA
+
+<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/Acidovorax_antarcticus_assoc.PNG width=700/>  
+<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/Acidovorax_avenae_subsp_avenae_ATCC_19860_assoc.PNG
+ width=700/>  
+<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/Acidovorax_carolinensis_assoc.PNG width=700/>  
+<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/Acidovorax_citrulli_assoc.PNG width=700/>  
+<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/Acidovorax_monticola_assoc.PNG width=700/>  
+
+## Распределение Z-DNA
+
+<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/distrib_table.PNG width=700/>  
+<img src=https://github.com/TheMostKnown/hse22_project/blob/main/images/distrib_plot.PNG width=700/>  
+
+
+
